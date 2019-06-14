@@ -15,3 +15,5 @@ def login(request):
 
 def myposts(request):
     return render(request, 'myposts.html')
+
+    
